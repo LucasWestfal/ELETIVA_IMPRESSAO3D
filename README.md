@@ -5,8 +5,8 @@ Materiais da disciplina eletiva de Modelagem 3D e Manufatura Aditiva para Automa
 
 # Avisos
 
-Como conversamos no último encontro, *NÃO* teremos aula dia 25/09 por conta da semana de provas. Nos vemos dia 02/10!
+Dê uma olhada na pasta Material suplementar para encontrar instruções sobre uso das impressoras e tutoriais de modelagem 3D!
 
-A nota da A1 será baseada na lista 1; a data limite do envio é 23h59 do dia 02/10.
+Preencha o seguinte formulário para decidir horários de disponibilização do laboratório para imprimir seus projetos: [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdK45VbGLNI-BVHNxCu5rslzIAZSu94WPZBbzWtr8ZY0DGfcA/viewform?usp=dialog)
 
-Se ainda não terminou a lista 1, sugiro dar uma olhada na pasta Material suplementar.
+Slicer simplificado que roda no navegador: [slicer](https://www.printables.com/slice)
