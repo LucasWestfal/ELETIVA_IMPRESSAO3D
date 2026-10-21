@@ -7,7 +7,7 @@ Materiais da disciplina eletiva de Modelagem 3D e Manufatura Aditiva para Automa
 
 ## Acesso às impressoras:
 *Horários disponibilizados fora de aula para uso de impressoras:* Quarta-feira 14h-18h, Sexta-feira 10h-16h; sujeito a alterações. Me mande mensagem para saber que virás e o pessoal do lab se organizar!
-Esses horários são flexíveis e vou tentar arranjar mais horários, então se ficar ruim pra você conversa comigo!
+Esses horários são flexíveis e vou tentar arranjar mais horários; se ficar ruim pra você, conversa comigo!
 
 ## Sobre projetos:
 
