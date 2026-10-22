@@ -3,6 +3,9 @@
 Materiais da disciplina eletiva de Modelagem 3D e Manufatura Aditiva para Automação e IoT, ofertada em no semestre 2/2026 na FGV EMAp.
 -->
 
+*IMPORTANTE!!!* Fui comunicado que que os professores César Camacho e Izabel Camacho palestrarão no horário do nosso encontro em 23/10. Não teremos aula nesse dia, então, e teremos uma aula opcional em um dia e horário definido pelas respostas do formulário de disponibilidade.
+
+
 # Avisos
 
 ## Acesso às impressoras:
