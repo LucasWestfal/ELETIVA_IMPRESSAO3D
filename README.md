@@ -3,7 +3,7 @@
 Materiais da disciplina eletiva de Modelagem 3D e Manufatura Aditiva para Automação e IoT, ofertada em no semestre 2/2026 na FGV EMAp.
 -->
 
-*Já conversamos em sala mas não custa lembrar:* o acesso ao laboratório nessa semana e nosso encontro de 13/11 estão cancelados por conta da semana de aniversário da EMAp. Em breve trago notícias sobre um encontro extraordinário de reposição; tentemos terminar então alguns projetos que estão próximo de serem finalizados!
+*Reposição na nossa última semana:* solicitei um encontro extra para a tarde dessa quarta-feira, aviso em breve se vai acontecer.
 
 # Avisos
 
