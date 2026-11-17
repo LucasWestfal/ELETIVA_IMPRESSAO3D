@@ -3,7 +3,8 @@
 Materiais da disciplina eletiva de Modelagem 3D e Manufatura Aditiva para Automação e IoT, ofertada em no semestre 2/2026 na FGV EMAp.
 -->
 
-*Reposição na nossa última semana:* solicitei um encontro extra para a tarde dessa quarta-feira, aviso em breve se vai acontecer.
+*Reposição na nossa última semana:* teremos um encontro de reposição 18/11, 16h->18h na 1333!. Usaremos esse encontro e o encontro de dia 20 para finalizar os projetos da A2. Me mandem mensagem se precisarem tirar dúvidas!
+
 
 # Avisos
 
